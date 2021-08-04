@@ -8,7 +8,7 @@ You may also change the arguements in the "Game g(7, 8, 25);" constructor to cha
 My tasks:
 
 	1. To separate the single large file with many classes into separate files pertaining to each class. 
-	Files were divided into .cpp and .h files with the correct directives such as, but not limited to #include and #ifndef.
+	Files were divided into .cpp and .h files with the correct directives such as, but not limited to, #include and #ifndef.
 
 	2. To implement the entire History class and make it a functioning part of the program.
 
